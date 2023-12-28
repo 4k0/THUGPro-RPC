@@ -1,2 +1,3 @@
-# THUGPro-RPC
-goofy ahh rpc 
+# todo
+make it dont go stupid - pull a request pls
+
